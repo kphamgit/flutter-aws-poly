@@ -75,7 +75,42 @@ extension AWSPollyVoiceId {
             case "zhiyu": return .zhiyu
             case "aria": return .aria
             case "ayanda": return .ayanda
+            case "arlet" : return .arlet
+            case "hannah": return .hannah
+            case "arthur": return .arthur
+            case "daniel": return .daniel
+            case "liam": return .liam
+            case "pedro" : return .pedro
+            case "kajal": return .kajal
+            case "hiujin": return .hiujin
+            case "laura": return .laura
+            case "elin": return .elin
+            case "ida": return .ida
+            case "suvi": return .suvi
+            case "ola": return .ola
+            case "hala": return .hala
+            case "andres": return .andres
+            case "sergio": return .sergio
+            case "remi": return .remi
+            case "adriano": return .adriano
+            case "thiago": return .thiago
+            case "ruth": return .ruth
+            case "stephen": return .stephen
+            case "kazuha": return .kazuha
+            case "tomoko": return .tomoko
+            case "niamh": return .niamh
+            case "sofie": return .sophie
+            case "lisa": return .lisa
+            case "isabell": return .isabell
+            case "zayd": return .zayd
+            case "daniell": return .daniell
+            case "gregory": return .gregory
+            case "burcu": return .burcu
             default: return .unknown
         }
     }
 }
+
+/*
+case "aditi": return .aditi',
+*/
